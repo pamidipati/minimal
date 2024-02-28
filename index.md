@@ -1,123 +1,37 @@
----
-layout: default
----
+# About Me
+As a Principal Engineer at Stellantis, I leverage my 16+ years of experience and MTech in Computer Science to design and develop cutting-edge solutions for the global leader in smart and sustainable mobility. I work with a cross-functional team of engineers, architects, and product managers to deliver high-quality software products and services that meet the needs and expectations of our customers and stakeholders.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+My core competencies include Java, Python, Spring Boot, Microservices, Kafka, Mqtt, Rest API, Cloud technologies like AWS and Kubernetes, Mongo DB, Scylla DB, and MySQL. I have received multiple awards and recognition for driving excellence and innovation in projects such as Harman's Ignite Store and Ola Electric's Move OS 3 & 4 features. I am passionate about creating solutions that improve the lives of people and the planet through technology and engineering.
 
-[Link to another page](./another-page.html).
+## Experience
 
-There should be whitespace between paragraphs.
+### Stellantis
+Principal Engineer
+Dec 2023 - Present
+<center><img src="images/stellantis_img.jpg"/></center>
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### Ola Electric
+Principal Engineer
+Feb 2022 - Dec 2023 
+<center><img src="images/ola_logo.png"/></center>
 
-# Header 1
+### HARMAN International India Pvt. Ltd.
+Principal Engineer
+Feb 2015 - Feb 2022 
+<center><img src="images/Harman.png"/></center>
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Samsung India Software Operations
+Tech Lead
+Jul 2011 - Feb 2015 
+<center><img src="images/samsung.jpg"/></center>
 
-## Header 2
+### Wipro TechnologiesWipro Technologies
+Senior software engineer
+Jun 2010 - Jul 2011 
+<center><img src="images/Wipro.jpg"/></center>
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Symphony ServicesSymphony Services
+Software Engineer
+Jul 2007 - Jun 2010 
+<center><img src="images/Symphony-services.png"/></center>
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
