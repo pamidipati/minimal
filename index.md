@@ -8,30 +8,30 @@ My core competencies include Java, Python, Spring Boot, Microservices, Kafka, Mq
 ### Stellantis
 Principal Engineer
 Dec 2023 - Present
-<center><img src="images/stellantis_img.jpg"/></center>
+<center><img src=""assets/img/stellantis_img.jpg"/></center>
 
 ### Ola Electric
 Principal Engineer
 Feb 2022 - Dec 2023 
-<center><img src="images/ola_logo.png"/></center>
+<center><img src=""assets/img/ola_logo.png"/></center>
 
 ### HARMAN International India Pvt. Ltd.
 Principal Engineer
 Feb 2015 - Feb 2022 
-<center><img src="images/Harman.png"/></center>
+<center><img src=""assets/img/Harman.png"/></center>
 
 ### Samsung India Software Operations
 Tech Lead
 Jul 2011 - Feb 2015 
-<center><img src="images/samsung.jpg"/></center>
+<center><img src=""assets/img/samsung.jpg"/></center>
 
 ### Wipro TechnologiesWipro Technologies
 Senior software engineer
 Jun 2010 - Jul 2011 
-<center><img src="images/Wipro.jpg"/></center>
+<center><img src=""assets/img/Wipro.jpg"/></center>
 
 ### Symphony ServicesSymphony Services
 Software Engineer
 Jul 2007 - Jun 2010 
-<center><img src="images/Symphony-services.png"/></center>
+<center><img src=""assets/img/Symphony-services.png"/></center>
 
